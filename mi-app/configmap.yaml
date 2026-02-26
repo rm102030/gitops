@@ -16,8 +16,8 @@ data:
                 align-items: center;
                 height: 100vh;
                 margin: 0;
-                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                color: white;
+                background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+                color: #333;
             }
             .container {
                 text-align: center;
@@ -33,9 +33,9 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🚀 Claudia te amo</h1>
-            <p>att. Ricardo</p>
-            <p>Versión 2.0</p>
+            <h1>🚀 Mi Primera App GitOps</h1>
+            <p>Desplegada con ArgoCD desde GitHub</p>
+            <p>Versión 1.0</p>
         </div>
     </body>
     </html>

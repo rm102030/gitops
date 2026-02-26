@@ -1,0 +1,41 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mi-app-html
+data:
+  index.html: |
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Mi App GitOps</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: white;
+            }
+            .container {
+                text-align: center;
+            }
+            h1 {
+                font-size: 3em;
+                margin-bottom: 20px;
+            }
+            p {
+                font-size: 1.5em;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>🚀 Mi Primera App GitOps</h1>
+            <p>Desplegada con ArgoCD desde GitHub</p>
+            <p>Versión 1.0</p>
+        </div>
+    </body>
+    </html>

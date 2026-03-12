@@ -33,9 +33,9 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🚀 Mi Primera App GitOps</h1>
+            <h1>🎉 Mi App GitOps Actualizada</h1>
             <p>Desplegada con ArgoCD desde GitHub</p>
-            <p>Versión 3.0 - Con Webhooks!</p>
+            <p>Versión 4.0 - Cambio automático detectado!</p>
         </div>
     </body>
     </html>

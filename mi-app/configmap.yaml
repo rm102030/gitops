@@ -16,8 +16,8 @@ data:
                 align-items: center;
                 height: 100vh;
                 margin: 0;
-                background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
-                color: #333;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                color: #fff;
             }
             .container {
                 text-align: center;
@@ -33,9 +33,10 @@ data:
     </head>
     <body>
         <div class="container">
-            <h1>🚀 GitOps Automático Funcionando</h1>
+            <h1>🎯 GitOps es Increíble!</h1>
             <p>Desplegada con ArgoCD desde GitHub</p>
-            <p>Versión 7.0 - Reloader detectando cambios!</p>
+            <p>Versión 8.0 - Despliegue automático confirmado! 🚀</p>
+            <p>🐳 Kubernetes + ArgoCD + Reloader = Magia ✨</p>
         </div>
     </body>
     </html>

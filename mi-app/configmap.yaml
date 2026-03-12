@@ -35,7 +35,7 @@ data:
         <div class="container">
             <h1>🚀 GitOps Automático Funcionando</h1>
             <p>Desplegada con ArgoCD desde GitHub</p>
-            <p>Versión 6.0 - Reloader detectando cambios!</p>
+            <p>Versión 7.0 - Reloader detectando cambios!</p>
         </div>
     </body>
     </html>
